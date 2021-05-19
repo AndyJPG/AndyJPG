@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndyJPG
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, ASP.NET
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me : jiangpeigeng@gmail.com
 
